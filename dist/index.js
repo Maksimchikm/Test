@@ -1,2 +1,2 @@
-const root = document.querySelector('#root');
-root.textContent = "Строчка измененная в JS";
+const root = document.getElementById('root');
+root.textContent = "Строчка добавлена из JS";
